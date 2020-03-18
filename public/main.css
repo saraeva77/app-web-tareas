@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+
+body {
+    background-color: #edf0f5;
+    font-family: 'Caveat', cursive;
+    font-size: 22px;
+}
+.cabecera{
+    font-size: 32px!important;
+    color: #fff!important;
+}
+.my-bar{
+    background-color: #fc03db!important;
+}
+.nav-link{
+    color: #fff!important;
+}
+.nav-link:hover {
+    color: lightgray!important;
+}
+.form-control, .btn {
+    border-radius: 0!important;
+}
